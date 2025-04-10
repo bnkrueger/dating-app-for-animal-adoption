@@ -21,28 +21,36 @@ Landing Page: <br/>
 <img src="https://i.imgur.com/613gGLE.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Registration:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Login: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+User Dashboard:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+User Favorites:  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Admin Dashboard:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Pet Profile:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+</p>
+<br />
+Edit Pet Profile:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+</p>
+<br />
+Logout:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
 </p>
 
 <!--
