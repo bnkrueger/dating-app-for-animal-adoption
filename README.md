@@ -22,7 +22,7 @@ Landing Page: <br/>
 <br />
 <br />
 Registration:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/489LWqV.png" height="80%" width="80%"/>
 <br />
 <br />
 Login: <br/>
