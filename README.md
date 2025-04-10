@@ -43,14 +43,15 @@ Admin Dashboard:  <br/>
 <br />
 Add Pet Profile:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
-</p>
+<br />
 <br />
 Edit Pet Profile:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
-</p>
+<br />
 <br />
 Logout:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+<br />
 </p>
 
 <!--
