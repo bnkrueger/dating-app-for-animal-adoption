@@ -1,7 +1,7 @@
 <h1>Dating App for Animal Adoption</h1>
 
 <h2>Description</h2>
-Project -
+Webapp for matching users with their perfect pet based on their pet preferences. We created Pawsome to help shelter animals find a loving home and stay there for good.
 <br />
 
 
