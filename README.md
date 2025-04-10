@@ -18,7 +18,7 @@ Project -
 
 <p align="center">
 Landing Page: <br/>
-<img src="[https://i.imgur.com/613gGLE](https://i.imgur.com/613gGLE.png)" height="80%" width="80%"/>
+<img src="https://i.imgur.com/613gGLE" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
