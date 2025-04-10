@@ -30,27 +30,27 @@ Login: <br/>
 <br />
 <br />
 User Dashboard:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/gTKd5iJ.png" height="80%" width="80%"/>
 <br />
 <br />
 User Favorites:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/gcqA9I8.png" height="80%" width="80%"/>
 <br />
 <br />
 Admin Dashboard:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/RFHC0S6.png" height="80%" width="80%"/>
 <br />
 <br />
 Add Pet Profile:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/WsGl8xT.png" height="80%" width="80%"/>
 <br />
 <br />
 Edit Pet Profile:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/nuhkFQ8.png" height="80%" width="80%"/>
 <br />
 <br />
 Logout:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/ALjztyh.png" height="80%" width="80%"/>
 </p>
 
 <!--
