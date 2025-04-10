@@ -51,7 +51,6 @@ Edit Pet Profile:  <br/>
 <br />
 Logout:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
-<br />
 </p>
 
 <!--
