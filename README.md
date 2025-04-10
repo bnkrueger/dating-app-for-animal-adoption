@@ -26,7 +26,7 @@ Registration:  <br/>
 <br />
 <br />
 Login: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/R5YmzRw.png" height="80%" width="80%"/>
 <br />
 <br />
 User Dashboard:  <br/>
