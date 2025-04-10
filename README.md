@@ -9,6 +9,7 @@ Webapp for matching users with their perfect pet based on their pet preferences.
 
 - <b>Javascript</b> 
 - <b>CSS</b>
+- <b>This is a Next.js project bootstrapped with create-next-app</b>
 
 <h2>Environments Used </h2>
 
